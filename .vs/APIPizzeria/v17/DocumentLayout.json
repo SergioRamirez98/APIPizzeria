@@ -3,6 +3,30 @@
   "WorkspaceRootPath": "D:\\Users\\ramir\\source\\repos\\APIPizzeria\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{BDD1BE44-0AF7-4EA5-B462-4EA4CEDF5446}|APIPizzeria\\APIPizzeria.csproj|d:\\users\\ramir\\source\\repos\\apipizzeria\\apipizzeria\\data\\conexionbdd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDD1BE44-0AF7-4EA5-B462-4EA4CEDF5446}|APIPizzeria\\APIPizzeria.csproj|solutionrelative:apipizzeria\\data\\conexionbdd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDD1BE44-0AF7-4EA5-B462-4EA4CEDF5446}|APIPizzeria\\APIPizzeria.csproj|d:\\users\\ramir\\source\\repos\\apipizzeria\\apipizzeria\\controllers\\pizzacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDD1BE44-0AF7-4EA5-B462-4EA4CEDF5446}|APIPizzeria\\APIPizzeria.csproj|solutionrelative:apipizzeria\\controllers\\pizzacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDD1BE44-0AF7-4EA5-B462-4EA4CEDF5446}|APIPizzeria\\APIPizzeria.csproj|d:\\users\\ramir\\source\\repos\\apipizzeria\\apipizzeria\\services\\pizzaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDD1BE44-0AF7-4EA5-B462-4EA4CEDF5446}|APIPizzeria\\APIPizzeria.csproj|solutionrelative:apipizzeria\\services\\pizzaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDD1BE44-0AF7-4EA5-B462-4EA4CEDF5446}|APIPizzeria\\APIPizzeria.csproj|d:\\users\\ramir\\source\\repos\\apipizzeria\\apipizzeria\\data\\pizzadata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDD1BE44-0AF7-4EA5-B462-4EA4CEDF5446}|APIPizzeria\\APIPizzeria.csproj|solutionrelative:apipizzeria\\data\\pizzadata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDD1BE44-0AF7-4EA5-B462-4EA4CEDF5446}|APIPizzeria\\APIPizzeria.csproj|d:\\users\\ramir\\source\\repos\\apipizzeria\\apipizzeria\\data\\spdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDD1BE44-0AF7-4EA5-B462-4EA4CEDF5446}|APIPizzeria\\APIPizzeria.csproj|solutionrelative:apipizzeria\\data\\spdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDD1BE44-0AF7-4EA5-B462-4EA4CEDF5446}|APIPizzeria\\APIPizzeria.csproj|d:\\users\\ramir\\source\\repos\\apipizzeria\\apipizzeria\\models\\pizza.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDD1BE44-0AF7-4EA5-B462-4EA4CEDF5446}|APIPizzeria\\APIPizzeria.csproj|solutionrelative:apipizzeria\\models\\pizza.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{BDD1BE44-0AF7-4EA5-B462-4EA4CEDF5446}|APIPizzeria\\APIPizzeria.csproj|d:\\users\\ramir\\source\\repos\\apipizzeria\\apipizzeria\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BDD1BE44-0AF7-4EA5-B462-4EA4CEDF5446}|APIPizzeria\\APIPizzeria.csproj|solutionrelative:apipizzeria\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -14,7 +38,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
@@ -26,7 +50,85 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PizzaController.cs",
+              "DocumentMoniker": "D:\\Users\\ramir\\source\\repos\\APIPizzeria\\APIPizzeria\\Controllers\\PizzaController.cs",
+              "RelativeDocumentMoniker": "APIPizzeria\\Controllers\\PizzaController.cs",
+              "ToolTip": "D:\\Users\\ramir\\source\\repos\\APIPizzeria\\APIPizzeria\\Controllers\\PizzaController.cs",
+              "RelativeToolTip": "APIPizzeria\\Controllers\\PizzaController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD8AAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-28T16:52:26.409Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PizzaService.cs",
+              "DocumentMoniker": "D:\\Users\\ramir\\source\\repos\\APIPizzeria\\APIPizzeria\\Services\\PizzaService.cs",
+              "RelativeDocumentMoniker": "APIPizzeria\\Services\\PizzaService.cs",
+              "ToolTip": "D:\\Users\\ramir\\source\\repos\\APIPizzeria\\APIPizzeria\\Services\\PizzaService.cs",
+              "RelativeToolTip": "APIPizzeria\\Services\\PizzaService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-11T01:47:12.433Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PizzaData.cs",
+              "DocumentMoniker": "D:\\Users\\ramir\\source\\repos\\APIPizzeria\\APIPizzeria\\Data\\PizzaData.cs",
+              "RelativeDocumentMoniker": "APIPizzeria\\Data\\PizzaData.cs",
+              "ToolTip": "D:\\Users\\ramir\\source\\repos\\APIPizzeria\\APIPizzeria\\Data\\PizzaData.cs",
+              "RelativeToolTip": "APIPizzeria\\Data\\PizzaData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAKIAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-28T15:28:56.916Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SPData.cs",
+              "DocumentMoniker": "D:\\Users\\ramir\\source\\repos\\APIPizzeria\\APIPizzeria\\Data\\SPData.cs",
+              "RelativeDocumentMoniker": "APIPizzeria\\Data\\SPData.cs",
+              "ToolTip": "D:\\Users\\ramir\\source\\repos\\APIPizzeria\\APIPizzeria\\Data\\SPData.cs",
+              "RelativeToolTip": "APIPizzeria\\Data\\SPData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-11T13:44:19.671Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "ConexionBDD.cs",
+              "DocumentMoniker": "D:\\Users\\ramir\\source\\repos\\APIPizzeria\\APIPizzeria\\Data\\ConexionBDD.cs",
+              "RelativeDocumentMoniker": "APIPizzeria\\Data\\ConexionBDD.cs",
+              "ToolTip": "D:\\Users\\ramir\\source\\repos\\APIPizzeria\\APIPizzeria\\Data\\ConexionBDD.cs",
+              "RelativeToolTip": "APIPizzeria\\Data\\ConexionBDD.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-28T15:20:07.702Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Pizza.cs",
+              "DocumentMoniker": "D:\\Users\\ramir\\source\\repos\\APIPizzeria\\APIPizzeria\\Models\\Pizza.cs",
+              "RelativeDocumentMoniker": "APIPizzeria\\Models\\Pizza.cs",
+              "ToolTip": "D:\\Users\\ramir\\source\\repos\\APIPizzeria\\APIPizzeria\\Models\\Pizza.cs",
+              "RelativeToolTip": "APIPizzeria\\Models\\Pizza.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBAAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-28T14:56:24.132Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "WeatherForecastController.cs",
               "DocumentMoniker": "D:\\Users\\ramir\\source\\repos\\APIPizzeria\\APIPizzeria\\Controllers\\WeatherForecastController.cs",
               "RelativeDocumentMoniker": "APIPizzeria\\Controllers\\WeatherForecastController.cs",
